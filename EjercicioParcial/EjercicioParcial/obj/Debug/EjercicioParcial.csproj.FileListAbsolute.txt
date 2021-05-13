@@ -1,0 +1,7 @@
+C:\Users\crobe\Documents\GitHub\Ejercicio-Parcial2\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.exe.config
+C:\Users\crobe\Documents\GitHub\Ejercicio-Parcial2\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.exe
+C:\Users\crobe\Documents\GitHub\Ejercicio-Parcial2\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.pdb
+C:\Users\crobe\Documents\GitHub\Ejercicio-Parcial2\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.csprojAssemblyReference.cache
+C:\Users\crobe\Documents\GitHub\Ejercicio-Parcial2\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.csproj.CoreCompileInputs.cache
+C:\Users\crobe\Documents\GitHub\Ejercicio-Parcial2\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.exe
+C:\Users\crobe\Documents\GitHub\Ejercicio-Parcial2\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.pdb
